@@ -1,0 +1,47 @@
+#photo
+{
+    display: block;
+    height:400px;
+    width:1300px;
+    background-color:rgb(255, 255, 255);
+    align-items: center;
+    align-content: center;
+    
+}
+
+#Text
+{
+    margin-left: 530px;
+}
+#Alexis
+{
+    height: 400px;
+    width: 400px;
+    margin-left: 455px;
+    background-image: url(Alexis.png);
+    align-items: center;
+
+}
+
+.Banniere1
+{   display: block;
+    height: 100px;
+    width: 1300px;
+    font-size: 35px;
+    background-color:bisque;
+}
+#Text1
+{
+    text-align: center;
+}
+
+.BoxText
+{
+    text-align: center;
+}
+
+.BoxText2
+{
+    text-align: center;
+
+}
